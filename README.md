@@ -6,17 +6,8 @@ Learning repository for Spatial Data Analytics, Location Intelligence, Mobility 
 
 ## Why This Repository Exists
 
-Most business decisions happen somewhere.
 
-Stores have locations.
-
-Customers travel through cities.
-
-Malls compete for catchment areas.
-
-Coffee shops compete for attention within walking distance.
-
-This repository explores how location influences business outcomes using Python-based geospatial analysis.
+Most business decisions happen somewhere, Stores have locations, Customers travel through cities, Malls compete for catchment areas, Coffee shops compete for attention within walking distance, This repository explores how location influences business outcomes using Python-based geospatial analysis.
 
 The goal is not to become a GIS specialist.
 
